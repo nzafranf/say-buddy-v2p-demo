@@ -5,3 +5,9 @@ whisper
 openai-whisper
 ffmpeg
 setuptools-rust
+transformers
+torch
+librosa
+soundfile
+numpy
+python-Levenshtein
